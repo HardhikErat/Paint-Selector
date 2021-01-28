@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Paint-Selector/static/css/main.45bb13b8.chunk.css",
+    "main.js": "/Paint-Selector/static/js/main.87084a83.chunk.js",
+    "main.js.map": "/Paint-Selector/static/js/main.87084a83.chunk.js.map",
+    "runtime-main.js": "/Paint-Selector/static/js/runtime-main.0f1230ab.js",
+    "runtime-main.js.map": "/Paint-Selector/static/js/runtime-main.0f1230ab.js.map",
+    "static/css/2.ed590494.chunk.css": "/Paint-Selector/static/css/2.ed590494.chunk.css",
+    "static/js/2.a00f0603.chunk.js": "/Paint-Selector/static/js/2.a00f0603.chunk.js",
+    "static/js/2.a00f0603.chunk.js.map": "/Paint-Selector/static/js/2.a00f0603.chunk.js.map",
+    "index.html": "/Paint-Selector/index.html",
+    "precache-manifest.d2dc75a121a4c141a5f0d6a489d34c8f.js": "/Paint-Selector/precache-manifest.d2dc75a121a4c141a5f0d6a489d34c8f.js",
+    "service-worker.js": "/Paint-Selector/service-worker.js",
+    "static/css/2.ed590494.chunk.css.map": "/Paint-Selector/static/css/2.ed590494.chunk.css.map",
+    "static/css/main.45bb13b8.chunk.css.map": "/Paint-Selector/static/css/main.45bb13b8.chunk.css.map",
+    "static/js/2.a00f0603.chunk.js.LICENSE.txt": "/Paint-Selector/static/js/2.a00f0603.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/Paint-Selector/static/media/logo.ecea6c3a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f1230ab.js",
+    "static/css/2.ed590494.chunk.css",
+    "static/js/2.a00f0603.chunk.js",
+    "static/css/main.45bb13b8.chunk.css",
+    "static/js/main.87084a83.chunk.js"
+  ]
+}
