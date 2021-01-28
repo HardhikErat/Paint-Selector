@@ -66,7 +66,7 @@ class NewPalette extends Component {
 			colors: this.state.colors,
 		};
 		this.props.savePalette(newPalette);
-		this.props.history.push("/paint-selector");
+		this.props.history.push("/Paint-Selector");
 	}
 
 	render() {

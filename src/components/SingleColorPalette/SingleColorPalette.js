@@ -50,7 +50,7 @@ class SingleColorPalette extends Component {
 					{colorBoxes}
 					<div className={classes.goBack}>
 						<Link
-							to={`/paint-selector/palette/${palette.id}`}
+							to={`/Paint-Selector/palette/${palette.id}`}
 							onClick={(e) => e.stopPropagation()}
 						>
 							<div>

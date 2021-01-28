@@ -21,7 +21,7 @@ class PaletteList extends Component {
 	}
 	
 	goToPalette(id) {
-		this.props.history.push(`/paint-selector/palette/${id}`);
+		this.props.history.push(`/Paint-Selector/palette/${id}`);
 	}
 	handleDeletion() {
 		const {paletteToDelete} = this.state
@@ -52,7 +52,7 @@ class PaletteList extends Component {
 				<div className={classes.container}>
 					<nav className={classes.nav}>
 						<h1>Paint Selector</h1>
-						<Link to="/paint-selector/palette/new">
+						<Link to="/Paint-Selector/palette/new">
 							<span>Create Palette</span>
 						</Link>
 					</nav>

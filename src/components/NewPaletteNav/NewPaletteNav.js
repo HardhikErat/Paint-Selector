@@ -61,7 +61,7 @@ class NewPaletteNav extends Component {
 						</Typography>
 					</Toolbar>
 					<div className={classes.navBtns}>
-						<Link to="/paint-selector/">
+						<Link to="/Paint-Selector/">
 							<Button
 								className={classes.button}
 								variant="contained"

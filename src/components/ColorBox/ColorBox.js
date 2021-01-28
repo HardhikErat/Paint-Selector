@@ -46,7 +46,7 @@ class ColorBox extends Component {
 					</div>
 					{showFullPalette && (
 						<Link
-							to={`/paint-selector/palette/${palette.id}/${colorID}`}
+							to={`/Paint-Selector/palette/${palette.id}/${colorID}`}
 							onClick={(e) => e.stopPropagation()}
 						>
 							<span style={{color:getTextColor(backgroundColor)}} className={classes.moreBtn}>More</span>

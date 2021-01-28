@@ -46,7 +46,7 @@ class App extends Component {
 				<Switch>
 					<Route
 						exact
-						path="/paint-selector"
+						path="/Paint-Selector"
 						render={(routeProps) => (
 							<PaletteList
 								list={palettes}
@@ -57,7 +57,7 @@ class App extends Component {
 					/>
 					<Route
 						exact
-						path="/paint-selector/palette/new"
+						path="/Paint-Selector/palette/new"
 						render={(routeProps) => (
 							<NewPalette
 								palettes={palettes}
@@ -68,7 +68,7 @@ class App extends Component {
 					/>
 					<Route
 						exact
-						path="/paint-selector/palette/:id"
+						path="/Paint-Selector/palette/:id"
 						render={(routeProps) => (
 							<Palette
 								palette={generatePalette(
@@ -79,7 +79,7 @@ class App extends Component {
 					/>
 					<Route
 						exact
-						path="/paint-selector/palette/:paletteID/:colorID"
+						path="/Paint-Selector/palette/:paletteID/:colorID"
 						render={(routeProps) => (
 							<SingleColorPalette
 								colorID={routeProps.match.params.colorID}
